@@ -1,386 +1,226 @@
-# Bhavika Lathigara
+# 👋 Hi, I'm Bhavika Lathigara
 
-**Operations & Project Management Professional | 5+ Years | Banking Operations, Compliance & Data Analytics Expert**
-
----
-
-## 👋 About Me
-
-Results-driven operations professional with 5+ years of hands-on experience in **process optimization, project management, data analytics, and regulatory compliance** across diverse industries. I specialize in transforming complex operational challenges into scalable, data-driven solutions while managing global stakeholder relationships and delivering measurable business impact.
-
-**My Expertise Spans:**
-- **Operations & Process Management:** Global compliance across 40+ jurisdictions, SOP development, workflow optimization, SLA management, quality assurance
-- **Project Management:** Agile/Waterfall methodologies, JIRA, MS Project, cross-functional team leadership, stakeholder coordination, risk mitigation
-- **Data Analytics & Automation:** SQL, Python, Power BI, Tableau, data visualization, automation tools (Selenium, .NET, SQL)
-- **Banking & Financial Services:** Payroll operations, 401(k) processing, SLA management, regulatory compliance awareness
-- **Business Analysis:** Requirements gathering, process mapping, system optimization, business intelligence
-
-**Career Highlights:**
-- ✅ **Automated repetitive processes** saving **200+ hours/month** and reducing errors by **30%**
-- ✅ Standardized operations across **40+ global jurisdictions** achieving **95% on-time compliance, zero violations**
-- ✅ **Eliminated operational backlog to zero** in **five months** through process redesign
-- ✅ Achieved **90% first-contact resolution & 12% satisfaction improvement** in financial services
-- ✅ Validated **500+ structured reports annually** using SQL, reducing rework by **40%**
-- ✅ Led **SOP standardization** reducing errors by **30%** across global operations
-- ✅ Improved team efficiency by **20%** through knowledge base development
-- ✅ Improved workflow efficiency by **15%** through operational controls
-
-Currently **building expertise in data engineering** (Python, Databricks, ELT pipelines) while leveraging my operational foundation to bridge business requirements with technical data solutions.
+**Operations & Project Management Professional | Data Analytics Builder**  
+*5+ Years | Banking Operations, Compliance & Process Optimization*
 
 ---
 
-## 🎯 Featured Projects & Real-World Impact
+## 📊 Quick Overview
 
-### **PROJECT 1: Automation Framework for Quality Checks**
+Results-driven operations professional with 5+ years of hands-on experience transforming complex business challenges into **scalable, data-driven solutions**. I specialize in **process optimization, project management, compliance, and data analytics**—bridging operations expertise with emerging technical skills.
 
-**Technologies:** Selenium | .NET | SQL | Excel  
-**Business Impact:** **200+ hours/month saved | 30% error reduction**  
-**Duration:** Clarivate (Aug 2020 – Dec 2023)
+**What I Do:**
+- 🎯 Optimize global operations across 40+ jurisdictions
+- 📈 Build data solutions using Python, SQL, Power BI
+- ⚙️ Automate workflows (saving 200+ hours/month)
+- 📊 Lead SOP standardization & quality assurance
+- 🚀 Manage cross-functional projects from conception to delivery
 
-**The Challenge:**
-Repetitive operational processes consumed significant manual effort, prone to data entry errors, and unscalable.
+**Key Metrics:**
+- ✅ **95% compliance rate** across 40 jurisdictions (zero violations)
+- ✅ **200+ hours/month saved** through automation
+- ✅ **30% error reduction** via SOP standardization
+- ✅ **40% rework reduction** through data quality frameworks
+- ✅ **99%+ accuracy** maintained across financial operations
+- ✅ **20% team efficiency improvement** through knowledge management
 
-**What I Built:**
-Architected and developed multi-layer automation solution using Selenium, .NET, and SQL that:
-- Automated recurring data validation checks with structured audit logs
-- Eliminated manual transcription errors through intelligent data extraction
-- Ensured traceability and compliance through automated documentation
-- Reduced cycle time while maintaining 100% accuracy
+---
+
+## 👤 About Me
+
+With a **growth mindset** and commitment to **continuous learning**, I'm currently upskilling in data engineering (Python, Databricks, ELT pipelines) while leveraging my operations foundation to solve real business problems. I believe in transparency, collaboration, and delivering measurable impact.
+
+**Currently:** Postgraduate study in Data Analytics | **Location:** Toronto, Canada 🇨🇦
+
+---
+
+## 🎯 Featured Projects
+
+### 1️⃣ **Fake News Detection Using Machine Learning**
+**🛠️ Technologies:** Python | Scikit-learn | TF-IDF | Pandas | NumPy  
+**⭐ Achievement:** ~99% accuracy on 44,898 articles  
+**📁 Repository:** [View on GitHub](https://github.com/bhavika-lathigara/fake-news-detection-nlp)
+
+NLP-based ML model classifying news articles as real or fake using advanced text vectorization and ensemble learning.
 
 **Key Results:**
-- ✅ **Time savings:** 200+ hours per month freed for strategic work
-- ✅ **Error reduction:** 30% decrease in manual data entry errors
-- ✅ **Scalability:** System handled unlimited processing volumes
-- ✅ **Compliance:** Full audit trail and traceability maintained
-- ✅ **Award:** Lime Light Award 2022
-
-**Technical Skills Demonstrated:**
-- Multi-language integration (Selenium + .NET + SQL)
-- Database design & complex SQL queries
-- Automation testing & quality assurance
-- Traceability & compliance frameworks
-
-**Relevant for:** System Analyst, Automation Specialist, Data Analyst, IT Project Manager roles
+- Achieved ~99% accuracy (16% above target)
+- Tested Logistic Regression, Naive Bayes, Random Forest
+- Built complete data pipeline (preprocessing → evaluation)
 
 ---
 
-### **PROJECT 2: SOP Standardization & Training Program (40+ Jurisdictions)**
+### 2️⃣ **Operations Metrics Dashboard**
+**🛠️ Technologies:** Python | SQL | Pandas | Matplotlib | SQLite  
+**⭐ Achievement:** Real-time KPI tracking for operations teams  
+**📁 Repository:** [View on GitHub](https://github.com/bhavika-lathigara/operations-metrics-dashboard)
 
-**Technologies:** JIRA | Regulatory Analysis | Team Training | Documentation  
-**Business Impact:** **30% error reduction | 95% compliance rate | 100% adoption**  
-**Duration:** Clarivate (Aug 2020 – Dec 2023)
+Python-based dashboard tracking SLA compliance, accuracy rates, backlog trends, and key performance indicators.
 
-**The Challenge:**
-Operations across 40+ countries lacked standardization, leading to inconsistent workflows and regulatory gaps.
-
-**What I Delivered:**
-Led end-to-end SOP creation and rollout including:
-- Regulatory research across 40+ global jurisdictions
-- Standardized procedures for all operational workflows
-- Team training on jurisdiction-specific protocols
-- Change management ensuring organizational adoption
-
-**Key Results:**
-- ✅ **Error reduction:** 30% fewer operational errors across all jurisdictions
-- ✅ **Compliance:** 95% on-time submissions, zero violations maintained
-- ✅ **Adoption:** Full team adoption of standardized procedures
-- ✅ **Consistency:** Measurable cycle-time improvements across workflows
-- ✅ **Award:** Extra Mile Award (Clarivate, Jul 2023)
-
-**Analytical Skills Applied:**
-- Cross-jurisdictional legal & compliance research
-- Data-driven process mapping & error tracking
-- Risk assessment & mitigation planning
-- Training program development & execution
-
-**Relevant for:** Operations Manager, Process Analyst, Compliance Officer, Project Manager, Business Analyst roles
+**Metrics Tracked:**
+- 📊 SLA Compliance (target: 95%+)
+- 📊 Accuracy Rate (target: 99%+)
+- 📊 Backlog Reduction (weekly)
+- 📊 First Contact Resolution (target: 90%+)
+- 📊 Regulatory Violations (target: zero)
 
 ---
 
-### **PROJECT 3: Fake News Detection Machine Learning Model (Capstone)**
+### 3️⃣ **Payroll Processing System**
+**🛠️ Technologies:** Python | SQLite | SQL | OOP  
+**⭐ Achievement:** Automated payroll calculation & compliance reporting  
+**📁 Repository:** [View on GitHub](https://github.com/bhavika-lathigara/payroll-processing-system)
 
-**Technologies:** Python | Scikit-learn | TF-IDF | SQL | Logistic Regression, Naive Bayes, Random Forest  
-**Achievement:** **~99% accuracy** on **44,898 articles** | **16% above target**  
-**Dataset:** 44,898 articles from UCI Machine Learning Repository  
-**Duration:** Academic Capstone Project (Durham College)
+End-to-end payroll system managing employee records, salary calculations, tax deductions, and compliance audit trails.
 
-**The Problem:**
-Build a machine learning model to classify news articles as real or fake with highest possible accuracy.
-
-**My Approach:**
-- **Data preprocessing:** Cleaned 44,898 articles, handled missing values, text normalization
-- **Feature engineering:** TF-IDF vectorization identifying key terms
-- **Model comparison:** Tested Logistic Regression, Naive Bayes, Random Forest
-- **Optimization:** Hyperparameter tuning for maximum accuracy
-- **Evaluation:** Comprehensive performance metrics analysis
-
-**Best Model Performance (Random Forest):**
-- **Accuracy:** ~99%
-- **Precision & Recall:** Optimized across all metrics
-- **Deployment-ready:** Recommendations for production implementation
-
-**Data Analytics Skills Demonstrated:**
-- Advanced feature engineering & text vectorization (TF-IDF)
-- Machine learning algorithm selection & optimization
-- Statistical model evaluation & comparative analysis
-- Python proficiency (Pandas, NumPy, Scikit-learn, SQL)
-
-**Relevant for:** Data Analyst, Business Analyst, Research Analyst, Data Science roles
-
----
-
-### **PROJECT 4: Operational Backlog Elimination**
-
-**Technologies:** JIRA | Process Redesign | Capacity Planning | Daily Stand-ups  
-**Business Impact:** **Backlog → Zero in 5 months | 25% overall reduction | 100% on-time completion**  
-**Duration:** Clarivate (Aug 2020 – Dec 2023)
-
-**The Challenge:**
-Operational backlog was growing and unsustainable, threatening SLA compliance and client satisfaction.
-
-**My Approach:**
-- Re-prioritized queues in JIRA with 100% on-time completion tracking
-- Implemented daily stand-ups and cross-team alignment on priorities
-- Capacity planning and workflow optimization
-- Data quality monitoring to prevent rework
-
-**Key Results:**
-- ✅ **Backlog eliminated:** Zero backlog achieved within 5 months
-- ✅ **Compliance:** 100% on-time completion maintained
-- ✅ **Efficiency:** Process optimization reduced cycle times significantly
-- ✅ **Sustainability:** Long-term capacity aligned with demand
-
-**Project Management Skills Applied:**
-- Agile project management (JIRA) & sprint planning
-- Resource allocation & capacity management
-- Cross-functional team coordination
-- Data-driven prioritization
-
-**Relevant for:** Operations Coordinator, Project Manager, Operations Manager roles
-
----
-
-### **PROJECT 5: Knowledge Base Development & Team Efficiency**
-
-**Technologies:** Documentation Tools | Training Programs | Process Improvement  
-**Business Impact:** **20% efficiency improvement | Ramp-up time reduction**  
-**Duration:** WIPRO Limited (Feb 2019 – Apr 2020)
-
-**The Challenge:**
-New hire ramp-up was slow (4-5 weeks); recurring issues resolved inconsistently across the team.
-
-**What I Built:**
-Coordinated comprehensive knowledge base development by:
-- Partnering with 20+ team members to document recurring issues
-- Standardizing resolution procedures and best practices
-- Creating training materials for new hire onboarding
-- Implementing continuous improvement process for documentation
-
-**Key Results:**
-- ✅ **Team efficiency:** 20% improvement in overall productivity
-- ✅ **Ramp-up time:** Significantly reduced for new team members
-- ✅ **Consistency:** Standardized resolution approaches across team
-- ✅ **Knowledge retention:** Documented organizational knowledge
-- ✅ **Award:** Best Employee Award (WIPRO, 2020)
-
-**Skills Applied:**
-- Process documentation & standardization
-- Team collaboration & knowledge transfer
-- Training program development
-- Change management & adoption
-
-**Relevant for:** Operations Coordinator, Business Analyst, Training Specialist, Team Lead roles
-
----
-
-### **PROJECT 6: Data Quality & Reporting Framework**
-
-**Technologies:** SQL | Data Profiling | Power BI | Excel | JIRA  
-**Business Impact:** **500+ reports validated annually | 40% rework reduction**  
-**Duration:** Clarivate (Aug 2020 – Dec 2023)
-
-**The Objective:**
-Ensure data accuracy and compliance for 500+ quarterly reports supporting stakeholder decision-making.
-
-**What I Delivered:**
-- **SQL-based data profiling:** Validated structured reports using SQL queries
-- **Quality frameworks:** Implemented quality standards and audit logs
-- **Stakeholder reporting:** Created governance-aligned reports for SLA/audit reviews
-- **Error reduction:** Implemented systematic checks reducing rework
-
-**Key Results:**
-- ✅ **Reports validated:** 500+ structured reports annually
-- ✅ **Rework reduction:** 40% fewer revision cycles
-- ✅ **Decision support:** Improved data reliability for stakeholder decisions
-- ✅ **Compliance:** 100% audit-ready documentation maintained
-- ✅ **Governance:** Aligned reporting with SLA & compliance standards
-
-**Technical Skills Demonstrated:**
-- SQL querying & data validation
-- Data profiling & quality assessment
-- Reporting frameworks & governance
-- Business intelligence & KPI design
-
-**Relevant for:** Data Analyst, Business Analyst, System Analyst, Operations roles
+**Features:**
+- ✅ Automated salary calculation (gross, net, taxes)
+- ✅ 401(k) and benefits deduction
+- ✅ Compliance audit trail & reporting
+- ✅ IRS & DOL regulation adherence
 
 ---
 
 ## 💼 Professional Experience
 
-### **Senior Service Operations Analyst**
-**Clarivate (formerly CPA Global) | Delhi NCR, India | Aug 2020 – Dec 2023**
+### **Senior Service Operations Analyst** 📍 Clarivate | Delhi NCR, India  
+*Aug 2020 – Dec 2023*
 
-Global regulatory compliance and jurisdictional operations across 40+ jurisdictions.
+Global regulatory compliance and operational excellence across 40+ jurisdictions.
 
-**Key Achievements:**
-- **Workflow optimization:** Re-prioritized queues in JIRA achieving **100% on-time completion** and **25% backlog reduction**
-- **Automation mastery:** Built automation (Selenium, .NET, SQL) saving **200+ hours/month** and reducing errors **30%**
-- **Compliance expertise:** Coordinated submissions across **40 jurisdictions** maintaining **95% on-time compliance, zero violations**
-- **Asset management:** Managed **150+ renewals & payments** ensuring 100% SLA adherence
-- **SOP development:** Implemented standardized procedures across **40 jurisdictions** reducing errors **30%**
-- **Data quality:** Validated **500+ structured reports annually** using SQL, reducing rework **40%**
-- **Team leadership:** Trained cross-functional teams; ensured full adoption of governance standards
+**🎯 Key Achievements:**
+- **95% on-time compliance, zero violations** across 40 jurisdictions through coordinated submissions
+- **Automated workflows** (Selenium, .NET, SQL) saving **200+ hours/month** with **30% error reduction**
+- **Standardized operations** across 40 jurisdictions reducing errors by **30%**
+- **Managed 150+ renewals & payments** ensuring 100% SLA adherence
+- **Validated 500+ reports annually** using SQL, reducing rework by **40%**
+- **Trained 25+ team members** on global compliance protocols
 
-**Technologies Used:** JIRA | SQL | Selenium | .NET | Excel | Data profiling tools | Confluence
-
----
-
-### **Customer Service Representative – Financial Services**
-**WIPRO Limited | India | Feb 2019 – Apr 2020**
-
-SLA-driven service operations supporting US/Canadian banking and payroll clients.
-
-**Key Achievements:**
-- **SLA mastery:** Achieved **90% first-contact resolution** & improved satisfaction by **12%**
-- **Accuracy focus:** Maintained high regulatory adherence (**98-99.7% compliance**)
-- **Process improvement:** Led knowledge base development improving team efficiency by **20%**
-- **Escalation management:** Escalated red-flag patterns via CRM, maintained zero compliance breaches
-- **Client excellence:** Processed 150+ daily inquiries with consistent quality and SLA adherence
-- **Award:** Best Employee Award 2020
-
-**Technologies Used:** CS Pro | Oracle Siebel | Excel | CRM systems | Data validation tools
+**🏆 Awards:** Lime Light Award (2022), Extra Mile Award (Jul 2023)
 
 ---
 
-### **Business Development Executive**
-**Kshipra Advertising & Finance | India | Jan 2018 – Oct 2018**
+### **Customer Service Representative – Financial Services** 📍 WIPRO Limited | India  
+*Feb 2019 – Apr 2020*
 
-Market analysis, outreach strategy, and sales enablement.
+SLA-driven operations supporting US/Canadian banking and payroll clients.
 
-**Key Achievements:**
-- **Market research:** Analyzed competitive landscape; developed financial service strategies
-- **Pipeline growth:** Increased lead pipeline visibility by **20%** within **10 months** through data-driven positioning
-- **Client engagement:** Established relationships across **15+ prospect accounts**
-- **Business insight:** Translated market analysis into compelling value propositions
+**🎯 Key Achievements:**
+- **90% first-contact resolution** & improved satisfaction by **12%**
+- **98-99.7% compliance** on financial transactions (wire transfers, ACH, account reconciliation)
+- **Knowledge base development** improving team efficiency by **20%**
+- **Zero compliance breaches** maintained through BSA/AML awareness
+
+**🏆 Award:** Best Employee Award (2020)
+
+---
+
+### **Business Development Executive** 📍 Kshipra Advertising & Finance | India  
+*Jan 2018 – Oct 2018*
+
+Market analysis and sales enablement.
+
+**🎯 Key Achievements:**
+- Increased lead pipeline visibility by **20%** within 10 months
+- Established relationships with **15+ prospect accounts**
 
 ---
 
 ### **Canadian Experience**
 
-**Wendy's — Customer Service Representative | Nov 2024 – Present | Oshawa, ON**
-- Delivered consistent service quality while maintaining health and safety compliance
-
-**Men Zone — Assistant Operations & Customer Experience Manager (Part-Time) | Oct 2024 – Feb 2025 | Oshawa, ON**
-- Improved workflow efficiency by **15%** via daily operational controls and coordination
-- Reduced stock discrepancies through systematic checks
-
-**Wincon Security — Security Operations Associate (Part-Time/On-Call) | Dec 2023 – Aug 2024 | Scarborough, ON**
-- Documented **50+ monthly security incidents**; maintained **100% compliance** with safety regulations
-- Achieved **zero unauthorized access breaches** over 8-month tenure
+📍 **Wendy's** — Customer Service Representative | Nov 2024 – Present  
+📍 **Men Zone** — Assistant Operations & Customer Experience Manager (Part-Time) | Oct 2024 – Feb 2025  
+📍 **Wincon Security** — Security Operations Associate (On-Call) | Dec 2023 – Aug 2024
 
 ---
 
 ## 🛠️ Technical Skills & Tools
 
-### **Programming & Data Analysis:**
-- **Python:** Pandas, NumPy, Scikit-learn, Jupyter Notebook
-- **SQL:** Complex queries, database design, data profiling, stored procedures
+### **Programming & Data Analysis**
+- **Languages:** Python (Pandas, NumPy, Scikit-learn) | SQL | Perl
 - **Machine Learning:** Classification algorithms, TF-IDF vectorization, model evaluation
+- **Automation:** Selenium | .NET Framework
 
-### **Business Intelligence & Analytics:**
-- **Power BI:** Dashboard creation, KPI tracking, real-time reporting
-- **Tableau:** Interactive analytics, trend analysis, business metrics
-- **Excel (Advanced):** PivotTables, VLOOKUP, Macros, Data Modeling, Power Query
+### **Business Intelligence & Analytics**
+- **Visualization:** Power BI | Tableau | Matplotlib
+- **Excel (Advanced):** PivotTables, VLOOKUP, Macros, Power Query, Data Modeling
 
-### **Project & Operations Management:**
-- **JIRA:** Workflow management, cross-functional collaboration, backlog tracking
-- **MS Project:** Project planning, scheduling, resource allocation
-- **Confluence:** Team documentation, knowledge base development
-- **Visio:** Process mapping, workflow diagrams, system design
+### **Project & Operations Management**
+- **Tools:** JIRA | MS Project | Confluence | Visio
+- **Methodologies:** Agile/Waterfall | Lean Six Sigma | Process Automation
+- **Expertise:** SOP Development | SLA Management | Quality Assurance | Team Leadership
 
-### **Automation & Development:**
-- **Selenium:** Web automation, data extraction, testing frameworks
-- **.NET Framework:** Application development, system integration
-- **SQL:** Data validation, automation scripts, audit trail implementation
-
-### **Compliance & Operations:**
-- **SOP development** & governance frameworks
-- **SLA management** & regulatory compliance
-- **Process automation** & quality assurance
-- **Data profiling** & quality frameworks
-- **Stakeholder communication** & team coordination
-
-### **Core Competencies:**
-✅ Operations Management | Process Optimization | Data Analysis | Project Management | Business Analysis | Compliance | SLA Management | Automation | Quality Assurance | Team Leadership | Problem-Solving | Stakeholder Communication
+### **Banking & Compliance**
+- ✅ Payroll operations (US/Canadian 401(k), HCM)
+- ✅ SLA management & regulatory compliance
+- ✅ BSA/AML compliance awareness
+- ✅ Data quality frameworks & audit trails
 
 ---
 
 ## 🎓 Education
 
 **Durham College, Oshawa, ON**
-- **Postgraduate Certificate – Project Management** (Jan 2024 – Aug 2024) — **Dean's Honor Roll**
-- **Postgraduate Certificate – Data Analytics for Business Decision Making** (Jan 2025 – Aug 2025) — **Dean's Honor Roll**
+- **Postgraduate Certificate – Project Management** (Jan 2024 – Aug 2024) — 🏆 Dean's Honor Roll
+  - Agile, Lean Six Sigma, Risk Management, Cost Control
+- **Postgraduate Certificate – Data Analytics for Business Decision Making** (Jan 2025 – Aug 2025) — 🏆 Dean's Honor Roll
+  - Data Analysis, SQL, Python, Power BI, Predictive Analytics
 
 **University of Delhi, India**
-- **Bachelor of Commerce** (2014 – 2017) — **First Division**
+- **Bachelor of Commerce** (2014 – 2017) — First Division
 
 ---
 
 ## 📜 Certifications & Credentials
 
-- **PMP Certification** (In Progress)
-- **Lean Six Sigma Yellow Belt**
-- **Microsoft Project 2019 Essential Training**
-- **Visio 2021 Essential Training**
-- **Microsoft Office Specialist: Excel Associate** (Office 2019)
+- 🏅 **PMP Certification** (In Progress)
+- 🏅 **Lean Six Sigma Yellow Belt**
+- 🏅 **Microsoft Project 2019 Essential Training**
+- 🏅 **Visio 2021 Essential Training**
+- 🏅 **Microsoft Office Specialist: Excel Associate** (Office 2019)
 
 ---
 
 ## 🏆 Awards & Recognition
 
-| Award | Date | Issuer | Recognition |
-|---|---|---|---|
-| **Extra Mile Award** | Jul 2023 | Clarivate | SOP standardization leadership, operational excellence |
-| **Bravo Award** | Nov 2022 | Clarivate | Critical case resolution, compliance management |
-| **Lime Light Award** | 2022 | Clarivate | Automation framework development, efficiency improvements |
-| **Best Employee Award** | 2020 | WIPRO | Outstanding customer satisfaction & performance |
+| 🥇 Award | 📅 Date | 🎯 Recognition |
+|---|---|---|
+| **Extra Mile Award** | Jul 2023 | SOP standardization leadership, operational excellence |
+| **Bravo Award** | Nov 2022 | Critical case resolution, compliance management |
+| **Lime Light Award** | 2022 | Automation framework development, efficiency gains |
+| **Best Employee Award** | 2020 | Outstanding customer satisfaction & performance |
 
 ---
 
-## 📬 Contact & Connect
+## 🎯 Why Hire Me?
 
-**Email:** [bhavil.ca@gmail.com](mailto:bhavil.ca@gmail.com)  
-**Phone:** +1 905-922-6268  
-**LinkedIn:** [linkedin.com/in/bhavikah](https://linkedin.com/in/bhavikah)  
-**GitHub:** [github.com/bhavika-lathigara](https://github.com/bhavika-lathigara)  
-**Location:** Toronto, Ontario, Canada
+I bring a **rare hybrid profile:**
+- 💪 Deep operations expertise (5+ years proven track record)
+- 🧠 Strong project management skills (JIRA, MS Project, Agile)
+- 📊 Growing data analytics capabilities (Python, SQL, Power BI)
+- 🚀 Growth mindset (continuously learning, upskilling)
+- 🤝 Team player (mentoring, knowledge sharing, collaboration)
+
+**Perfect for roles:** Operations Coordinator | Project Coordinator | Project Manager | System Analyst | Business Analyst | Data Analyst | Banking Operations Specialist
+
+---
+
+## 📬 Let's Connect!
+
+📧 **Email:** [bhavil.ca@gmail.com](mailto:bhavil.ca@gmail.com)  
+📱 **Phone:** +1 905-922-6268  
+🔗 **LinkedIn:** [linkedin.com/in/bhavikah](https://linkedin.com/in/bhavikah)  
+💻 **GitHub:** [github.com/bhavika-lathigara](https://github.com/bhavika-lathigara)  
+📍 **Location:** Toronto, Ontario, Canada
 
 ---
 
-## 🎯 Role Fit & Career Target
+## 🙌 Thank You!
 
-**Actively Seeking Roles in Canadian Market:**
-- ✅ Operations Coordinator | Operations Analyst
-- ✅ Project Coordinator | Project Manager  
-- ✅ System Analyst | Business Analyst
-- ✅ Data Analyst | Research Analyst
-- ✅ Customer Service Team Lead
-- ✅ Banking Operations | Compliance Specialist
-
-**Why Me?**
-I bring a **unique hybrid profile:** Deep operations expertise + proven project management + growing data analytics capabilities. This combination is rare and highly valuable. I understand how to optimize processes, lead projects, and leverage data for decision-making—exactly what forward-thinking organizations need.
-
----
+Thank you for visiting my portfolio! I'm passionate about continuous learning, solving real-world problems, and delivering measurable impact. Feel free to explore my repositories and reach out to collaborate or connect!
 
 **Last Updated:** November 2025  
-**Status:** Actively seeking roles in Toronto/Canada market | Available for interviews | Open to hybrid/remote opportunities
+**Status:** Actively seeking opportunities | Available for interviews | Open to hybrid/remote roles
+
+---
+
