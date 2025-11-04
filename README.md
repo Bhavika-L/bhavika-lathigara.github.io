@@ -3,7 +3,6 @@
 **Operations & Project Management Professional | Data Analytics Builder**  
 *5+ Years | Banking Operations, Compliance & Process Optimization*
 
----
 
 ## 🎯 **WHY HIRE ME?**
 
